@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000/)
 
 ### `Base de datos`
 
-**Nota: Se debe correr el script de base de datos antes de iniciar la aplicación, no se necesita crear la tabla de pacientes ya que al momento de iniciar el backend, este automaticamente la crea vacia, el usuario de base de datos es root y no tiene password, path de backend backend\app\config\db.config.js **
+**Nota: Se debe correr el script de base de datos antes de iniciar la aplicación, no se necesita crear la tabla de pacientes ya que al momento de iniciar el backend, este automaticamente la crea vacia, el usuario de base de datos es root y no tiene password, path de backend backend\app\config\db.config.js**
 
 
 ---
