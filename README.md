@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Pasos para correr la aplicación
 
 ## Available Scripts
 
