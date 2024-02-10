@@ -3,6 +3,7 @@
 ## Backend
 Se debe ingresar a la carpeta backend y correr el comando
 
+### `npm i`
 ### `node server.js`
 
 El server escuchara por el puerto 8080
@@ -11,6 +12,7 @@ Open [http://localhost:8080](http://localhost:8080/)
 ## Frontend
 Se debe ingresar a la carpeta frontend y correr el comando
 
+### `npm i`
 ### `npm start`
 El front escuchara por el puerto 3000
 Open [http://localhost:3000](http://localhost:3000/)
